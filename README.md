@@ -1,6 +1,6 @@
 # Hey! I'm just a random French guy on GitHub!
 # My projects
-- [My site with all of my projects and my future projects (only in French for this time](https://terranaus.github.io)
+- [My site with all of my projects and my future projects](https://terranaus.github.io) - only in French for this time
   - Maintained by [me](https://github.com/Terranaus).
 - [Luma3DS mais en français](https://github.com/Terranaus/Luma3DS-mais-en-francais) - a translation of Luma3DS into French.
   - Made by [me](https://github.com/Terranaus) and [@Yo-3DS](https://github.com/Yo-3DS).
